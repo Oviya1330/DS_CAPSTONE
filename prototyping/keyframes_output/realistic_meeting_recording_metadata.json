@@ -1,0 +1,50 @@
+{
+  "extraction_date": "2025-10-21T22:42:24.066696",
+  "source_video": "o:\\REDACTION_SYSTEM\\prototyping\\realistic_meeting_recording.mp4",
+  "video_info": {
+    "fps": 30.0,
+    "total_frames": 4500,
+    "duration": 150.0,
+    "width": 1920,
+    "height": 1080
+  },
+  "extraction_params": {
+    "threshold": 100.0,
+    "min_interval_seconds": 2.0
+  },
+  "keyframes": [
+    {
+      "keyframe_index": 0,
+      "frame_number": 0,
+      "timestamp": 0.0,
+      "file_path": "keyframes_output\\realistic_meeting_recording_keyframe_0000_f000000_t0.00s.jpg",
+      "filename": "realistic_meeting_recording_keyframe_0000_f000000_t0.00s.jpg",
+      "diff_score": 0.0
+    },
+    {
+      "keyframe_index": 1,
+      "frame_number": 1350,
+      "timestamp": 45.0,
+      "file_path": "keyframes_output\\realistic_meeting_recording_keyframe_0001_f001350_t45.00s.jpg",
+      "filename": "realistic_meeting_recording_keyframe_0001_f001350_t45.00s.jpg",
+      "diff_score": 210.43999903549383
+    },
+    {
+      "keyframe_index": 2,
+      "frame_number": 3600,
+      "timestamp": 120.0,
+      "file_path": "keyframes_output\\realistic_meeting_recording_keyframe_0002_f003600_t120.00s.jpg",
+      "filename": "realistic_meeting_recording_keyframe_0002_f003600_t120.00s.jpg",
+      "diff_score": 210.33885898919752
+    },
+    {
+      "keyframe_index": 3,
+      "frame_number": 4499,
+      "timestamp": 150.0,
+      "file_path": "keyframes_output\\realistic_meeting_recording_keyframe_0003_f004499_t150.00s.jpg",
+      "filename": "realistic_meeting_recording_keyframe_0003_f004499_t150.00s.jpg",
+      "diff_score": 0.0
+    }
+  ],
+  "total_keyframes": 4
+}
