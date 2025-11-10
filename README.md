@@ -82,9 +82,7 @@ The system is a **prototype**, with future extension to **video redaction pipeli
 
 ## Future Work
 
-Extend the pipeline to video redaction by processing individual frames
-
-Improve detection for multi-word secrets or split OCR tokens
-
-Integrate with real-time streaming systems for live redaction
+- Extend the pipeline to video redaction by processing individual frames
+- Improve detection for multi-word secrets or split OCR tokens
+- Integrate with real-time streaming systems for live redaction
 
